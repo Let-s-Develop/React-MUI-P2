@@ -129,7 +129,7 @@ const App = () => {
         <Box mt={4} textAlign="center">
           <img src={logo} alt="logo" style={{ marginBottom: '20px', height: '200px' }} />
           <Typography variant="h4" gutterBottom>
-            1. Implement Star Rating Functionality
+             Create a Reusable Modal Component with Open and Close Functionality
           </Typography>
           <ModalDemo />
           <Button variant="contained" color="primary" onClick={handleOpen} style={{ marginTop: '20px' }}>
